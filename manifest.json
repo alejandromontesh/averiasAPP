@@ -2,11 +2,12 @@
     "name": "Averias-PWA",
     "short_name": "Averias APP",
     "description": "Una aplicación web progresiva",
-    "start_url": "/averiasAPP/index.html",
+    "id": "AveriasAppv1",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
-    "orientation":"portrait",
+    "orientation": "portrait",
     "icons": [
         {
             "src": "images/emergency64.png",
