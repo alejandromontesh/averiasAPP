@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swLocation = '/RepAverias/sw.js'
+var swLocation = '/averiasAPP/sw.js'
 
 if (navigator.serviceWorker) {
 
