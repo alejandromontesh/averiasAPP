@@ -8,6 +8,6 @@ function ActualizaCacheDinamico(dynamicCache, req, res) {
 
         });
     } else {
-        return resp;
+        return res;
     }
 }
