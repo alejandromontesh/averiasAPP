@@ -80,15 +80,15 @@ const INMUTABLE_CACHE = 'inmutable-averias-v1'
 
 //Archivos necesarios para el APP
 const APP_SHELL = [
-    '/',
+    // '/',
     'index.html',
-    '/RepoAveria.html',
-    '/images/cdfLogo.jpg',
-    '/images/logoCDF.png',
-    '/images/logocdf2.jpg',
-    '/css/style.css',
-    '/js/app.js',
-    '/js/RepoAveria.js',
+    'RepoAveria.html',
+    'images/cdfLogo.jpg',
+    'images/logoCDF.png',
+    'images/logocdf2.jpg',
+    'css/style.css',
+    'js/app.js',
+    'js/RepoAveria.js',
     'js/sw-utils.js'
 ];
 
